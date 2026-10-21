@@ -11,3 +11,11 @@ L'état du budget est true
 
 Variation budget 30000 :
 
+Le rapport de dépenses de Awa:
+Le budget total est de 30000FCFA
+Le transport est de 12500FCFA
+L'alimentation est de 18300FCFA
+les dépenses pour loisirs sont de 7500FCFA
+Le total de ses dépendes 38300FCFA
+le reste est de -8300FCFA
+L'état du budget est false
