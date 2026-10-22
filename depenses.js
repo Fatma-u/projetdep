@@ -11,7 +11,7 @@ const loisirs=Number(loisirsTexte);// Type : number ; unité : FCFA
 
 const totalDepenses = transport + alimentation + loisirs; // Type : number ; unité : FCFA
 const budgetRestant = budget - totalDepenses; // Type : number ; unité : FCFA
-const budgetRespected = budgetRestant >=0; // Type : number ; unité : FCFA
+const budgetRespected = budgetRestant >=0; // Type : boolean ; 
 
 console.log(`Le rapport de dépenses de ${nom}:`);
 console.log(`Le budget total est de ${budget}FCFA`);
